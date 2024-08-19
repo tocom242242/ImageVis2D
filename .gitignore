@@ -1,0 +1,239 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Poetry specific
+poetry.lock
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# CMake
+CMakeFiles
+CMakeCache.txt
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Virtualenv
+*.env
+*.venv
+ENV/
+env.bak/
+venv.bak/
+*.env/
+*.venv/
+env/
+venv/
+
+# pyenv
+.python-version
+
+# VSCode specific
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# System files
+*.bak
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.out
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.dylib
+*.jar
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.whl
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+*.swo
+*.swn
+*.lock
+*.pid
+
+# Backup files
+*~
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+.idea/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/python.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/dictionaries/
+
+# Coverage reports
+.coverage
+*.cover
+
+# Anaconda
+*.ipynb_checkpoints/
+*.conda
+*.anaconda/
+.condarc
+.conda/
+.conda-env/
+envs/
+.condarc
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints
+
+# Python virtual environments
+.venv/
+*.venv/
+
+# Spyder project settings
+.spyderproject
+
+# PyCharm specific
+.idea/
+*.iml
+*.iws
+.idea/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/python.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/dictionaries/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+.idea/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/python.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/dictionaries/
+
+# CMake specific
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.backup
+*.swp
+*.swo
+*.pid
+*.gz
+*.orig
+
+data
